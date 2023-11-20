@@ -1,0 +1,16 @@
+#head{
+    color: blue;
+}
+.para{
+    background-color: blueviolet;
+
+}
+#list{
+    color: brown;
+}
+.common{
+    color: aqua;
+}
+*{
+    background-color: rgb(255, 0, 144);
+}
